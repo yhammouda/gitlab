@@ -1,0 +1,1 @@
+export GITLAB_HOME=$HOME/workspace/gitlab
